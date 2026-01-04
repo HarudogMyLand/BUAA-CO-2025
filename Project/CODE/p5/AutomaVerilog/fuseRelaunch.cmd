@@ -1,0 +1,1 @@
+-nodebug -prj "C:\Users\Harudog\Desktop\Use\WorkingArea\SrcCode\coCode\2025\coHw\p5\CPU_P5\mips.prj" -o "mips.exe" "test" 
